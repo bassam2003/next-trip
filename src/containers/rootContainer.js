@@ -21,7 +21,6 @@ const initialState = {
   currentStopText: '',
   showModal: false,
 }
-
 export class RootContainer extends React.PureComponent {
   constructor(props) {
     super(props)

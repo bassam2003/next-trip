@@ -3,7 +3,6 @@ import PropTypes from 'prop-types'
 import { withStyles } from '@material-ui/core/styles'
 import { Paper, Button } from '@material-ui/core'
 import { header } from '../utils/styleConstants'
-
 const styles = {
   header,
   root: { 

@@ -5,7 +5,6 @@ import { RoutesList } from '../routesList'
 describe('RoutesList', () => {
   it('should render without error', () => {
     const wrapper = shallow(<RoutesList />)
-
     expect(wrapper).toMatchSnapshot()
   })
 })

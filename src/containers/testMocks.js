@@ -8,7 +8,6 @@ export const mockRoutes = [
     Description: 'mock description for THREE',
   },
 ]
-
 export const mockDirections = [
   {
     Value: '2',

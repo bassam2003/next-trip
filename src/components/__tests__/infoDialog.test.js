@@ -5,7 +5,6 @@ import { InfoDialog } from '../infoDialog'
 describe('InfoDialog', () => {
   it('should render without error', () => {
     const wrapper = shallow(<InfoDialog />)
-
     expect(wrapper).toMatchSnapshot()
   })
 })

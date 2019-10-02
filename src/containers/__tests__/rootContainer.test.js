@@ -14,7 +14,7 @@ describe('RootContainer', () => {
     }
   })
 
-  it('should render without error', () => {
+  it('should render without error.', () => {
     const wrapper = shallow(<RootContainer {...props} />)
     expect(wrapper).toMatchSnapshot()
   })

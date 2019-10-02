@@ -1,3 +1,2 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
-
 exports[`RoutesList should render without error 1`] = `ShallowWrapper {}`;
