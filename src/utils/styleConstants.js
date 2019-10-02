@@ -7,7 +7,6 @@ export const flexHeader = {
   justifyContent: 'space-around',
   alignItems: 'center',
 }
-
 export const header = {
   backgroundColor: '#3f51b5', 
   color: 'white', 

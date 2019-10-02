@@ -1,8 +1,7 @@
 ## NexTrip Clone
 
-This app reads data from The [Metro Transit Open API](http://svc.metrotransit.org) to display information on Bus Routes, Stops, and Departure Times.
+This app displays information on Bus Routes, Stops, and Departure Times.
 
-[Hosted with GitHub Pages here](http://www.mrogach.com/next-trip-clone)
 
 ### Technologies used in this project: 
 1. React
@@ -20,10 +19,10 @@ This app reads data from The [Metro Transit Open API](http://svc.metrotransit.or
 ### To Run locally
 ```
 // Clone Project
- git clone https://github.com/mrogach2350/next-trip-clone.git
+ git clone git@github.com:bassam2003/next-trip.git
 
 // Cd into project directory
- cd next-trip-clone
+ cd next-trip
 
 // Install dependencies
  yarn
@@ -38,8 +37,3 @@ This app reads data from The [Metro Transit Open API](http://svc.metrotransit.or
 1. Additional `mount` tests for each step in workflow.
 2. e2e testing using Cypress.
 3. Auto-updating for Live Departure times. 
-
-
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

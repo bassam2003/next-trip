@@ -14,7 +14,6 @@ const styles = {
     overflow: 'scroll', 
   }
 }
-
 export const StopsList = ({ 
   stops = [], 
   classes = {}, 

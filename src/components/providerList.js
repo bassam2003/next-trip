@@ -13,7 +13,6 @@ const styles = {
     margin: '20px',
   }
 }
-
 export class ProviderList extends React.PureComponent {
   state = {
     anchorEl: null,

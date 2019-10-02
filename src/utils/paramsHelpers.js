@@ -3,7 +3,6 @@ export const encodeParams = (state = {}) => ({
     r: state.currentRoute,
     d: state.currentDirection,
   })
-
 export const decodeParams = (params = {}) => ({
     currentProvider: params.p || '',
     currentRoute: params.r || '',

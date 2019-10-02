@@ -21,7 +21,6 @@ const styles = {
     margin: 0,
   }
 }
-
 export const RoutesList = ({ 
   classes = {},
   routes = [], 

@@ -13,7 +13,6 @@ const styles = {
     padding: '10px',
   }
 }
-
 export const InfoDialog = ({ 
   currentStopText = '', 
   open = false, 
